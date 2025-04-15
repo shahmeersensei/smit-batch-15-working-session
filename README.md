@@ -1,1 +1,1 @@
-# smit-batch-15-working-seasion
+# smit-batch-15-working-session
